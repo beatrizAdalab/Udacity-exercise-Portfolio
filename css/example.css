@@ -1,0 +1,25 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.container{
+  width: 100%;
+  height: 100%;
+  background-image: url("../img/hero2.jpg");
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img{
+  width: 50%;
+}
+
+@media screen and (max-width: 1000px){
+  img{
+    width: 85%;
+  }
+}
