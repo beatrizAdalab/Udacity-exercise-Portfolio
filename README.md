@@ -1,2 +1,3 @@
 #Project Rubric
+
 Your project will be evaluated by a Udacity code reviewer according to the Build a Portfolio Site project rubric. Depending on your background knowledge of HTML and CSS, you may not need to complete all lessons to build this project. To evaluate what you'll need to know, start by downloading the mockup we've provided, and review the rubric. Be sure to follow the project rubric closely when designing your page.
